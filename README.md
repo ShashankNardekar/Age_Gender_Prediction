@@ -3,7 +3,7 @@ This is complementary source code for my [blog post](https://www.dlology.com/blo
 
  Here is the demo
 
-![alt text](https://gitcdn.xyz/cdn/Tony607/blog_statics/master/images/face/age_gender_demo.gif "age gender demo")
+![alt text]("age gender demo")
 
 
 
