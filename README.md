@@ -3,7 +3,7 @@ This is complementary source code for my [blog post](https://www.dlology.com/blo
 
  Here is the demo
 
-![alt text]("age gender demo")
+![alt text]("https://github.com/ShashankNardekar/Age_Gender_Prediction/blob/master/demo.gif age gender demo")
 
 
 
